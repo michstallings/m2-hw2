@@ -13,15 +13,16 @@ body {
 }
 
 h1 {
+	color: #ffffff;
 
 }
 
 h2 {
-
+	color: #95d066;
 }
 
 h3 {
-
+	color: #516a4c;
 }
 
 p {
@@ -38,4 +39,16 @@ section {
 
 footer {
 
+}
+
+/*----------Classes----------*/
+
+.button {
+
+}
+
+/*-------ID--------*/
+
+#head-1 {
+	
 }
