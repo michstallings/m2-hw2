@@ -2,7 +2,40 @@
 Dark Green #516a4c
 Pink: #ff294f 
 Offwhite: #f5f4f0 */
-
+* {
+	padding: 0;
+	border: 0;
+    display:block;
+}
 body {
 	font-family: 'Roboto', sans-serif;
+	color: #516a4c;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+header {
+
+}
+
+section {
+
+}
+
+footer {
+
 }
