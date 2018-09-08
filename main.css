@@ -14,19 +14,22 @@ body {
 
 h1 {
 	color: #ffffff;
+	font-size: 1.5rem;
 
 }
 
 h2 {
-	color: #95d066;
+	color: #516a4c;
+	font-size: 1.25rem;
 }
 
 h3 {
 	color: #516a4c;
+	font-size: 1.15rem;
 }
 
 p {
-
+	font-size: 1rem;
 }
 
 header {
@@ -44,11 +47,27 @@ footer {
 /*----------Classes----------*/
 
 .button {
+	border-radius: 5px;
+    border: 3px solid #516a4c;
+    width: 10%;
+    margin: auto;
+    padding: 0.5%;
+    text-align: center;
 
 }
 
 /*-------ID--------*/
 
 #head-1 {
-	
+	background-color: #f5f4f0; 	
+
+}
+
+#sec-1 {
+	background-image: url(images/plants-bg.png);
+	color: #ffffff;
+}
+
+#sec-3 {
+	background-color: #f5f4f0;
 }
