@@ -10,7 +10,8 @@ Offwhite: #f5f4f0 */
     display:block;
 }
 body {
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: 'Oswald', sans-serif;
 	color: #516a4c;
 }
 
@@ -23,7 +24,7 @@ h1 {
 }
 
 h2 {
-	color: #ff294f ;
+	color: #ff294f;
 	font-size: 1.25rem;
 	text-align: center;
 	padding: 2%;
