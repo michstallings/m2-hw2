@@ -2,6 +2,8 @@
 Dark Green #516a4c
 Pink: #ff294f 
 Offwhite: #f5f4f0 */
+
+
 * {
 	padding: 0;
 	border: 0;
@@ -38,8 +40,14 @@ p {
 	text-align: center;
 }
 
-header {
+header p {
+	text-align: right;
+	padding: 1%;
+	margin: 1%;
 
+}
+header {
+	padding: 2%;
 }
 
 section {
@@ -61,6 +69,12 @@ footer {
     padding: 0.5%;
     text-align: center;
 
+}
+
+header .button {
+	float: right;
+	margin-left: 1%;
+	margin-right: 1%;
 }
 
 .img-row {
@@ -100,11 +114,16 @@ footer {
 
 }
 
+#logo {
+	float: left;
+}
+
 #sec-1 {
 	background-image: url(images/plants-bg.png);
 	color: #ffffff;
 	margin: 2%;
 	padding: 5%;
+	clear: both;
 }
 
 #sec-3 {
