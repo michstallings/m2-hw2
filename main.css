@@ -14,7 +14,9 @@ body {
 
 h1 {
 	color: #ffffff;
-	font-size: 1.5rem;
+	font-size: 2rem;
+	text-align: center;
+	padding: 2%;
 
 }
 
@@ -75,6 +77,18 @@ footer {
 	clear: both;
 }
 
+.white {
+	border-radius: 5px;
+    border: 3px solid #ffffff;
+    width: 10%;
+    margin: auto;
+    padding: 0.5%;
+    text-align: center;
+	color: #ffffff;
+	clear: both;
+
+}
+
 /*-------ID--------*/
 
 #head-1 {
@@ -85,6 +99,8 @@ footer {
 #sec-1 {
 	background-image: url(images/plants-bg.png);
 	color: #ffffff;
+	margin: 2%;
+	padding: 5%;
 }
 
 #sec-3 {
