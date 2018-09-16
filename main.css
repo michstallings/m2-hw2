@@ -60,6 +60,8 @@ footer {
 .img-row {
 	height: 250px;
 	float: left;
+	padding: 5%;
+	margin: 3%;
 }
 
 .pink{
